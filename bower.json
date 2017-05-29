@@ -1,0 +1,17 @@
+{
+  "name": "site2",
+  "authors": [
+    "Oleg Sniga <oleg.sniga@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
